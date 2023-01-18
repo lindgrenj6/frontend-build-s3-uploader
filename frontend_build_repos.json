@@ -1,0 +1,16 @@
+{
+  "inventory": "https://github.com/RedHatInsights/insights-inventory-frontend-build",
+  "advisor": "https://github.com/RedHatInsights/insights-advisor-frontend-build",
+  "remediations": "https://github.com/RedHatInsights/insights-remediations-frontend-build",
+  "drift": "https://github.com/RedHatInsights/drift-frontend-build",
+  "patch": "https://github.com/RedHatInsights/patchman-ui-build",
+  "vulnerabilities": "https://github.com/RedHatInsights/vulnerability-ui-build",
+  "compliance": "https://github.com/RedHatInsights/compliance-frontend-build",
+  "policies": "https://github.com/RedHatInsights/policies-ui-frontend-build",
+  "resource optimization": "https://github.com/RedHatInsights/ros-frontend-build",
+  "malware": "https://github.com/RedHatInsights/malware-detection-frontend-build",
+  
+  "chrome": "https://github.com/RedHatInsights/insights-chrome-build",
+  "landing": "https://github.com/RedHatInsights/landing-page-frontend-build",
+  "dashboard": "https://github.com/RedHatInsights/insights-dashboard-build"
+}
